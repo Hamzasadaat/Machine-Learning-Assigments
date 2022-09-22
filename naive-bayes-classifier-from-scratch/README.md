@@ -1,0 +1,3 @@
+# naive-bayes-classifier-from-scratch
+Recall the equation Posterior Probabilities = Likelihood x Prior Probabilities P(A|B) = P(B|A) x P(A) 2. Calculate Posterior Probability for each class. In your case the number of classes are 2. 3. Calculate Prior Probability for each class. 4. Calculate the likelihood. 5. The dataset given above is training dataset. Split the data into train and validation. For generation of code from scratch consider the last 4 instances (D11, D12,D13,D14) as your validation instances. 6. Once the code is generated and its giving accurate answers on validation data. Then test your model on these Unknown instances.
+![image](https://user-images.githubusercontent.com/76808385/191714193-b0e97b8d-36bd-4d22-adf6-c5d8cdd27675.png)
